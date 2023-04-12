@@ -13,4 +13,4 @@
 ### Final Accuracy Values of the Algorithms Used:
 - Random Forest : 97.619%
 - Multinomial Logistic Regression : 92.8571%
-#### From the above information : Random Forest Algorithm is preferred for the given problem.
+#### From the above information : Random Forest Algorithm is preferred for the given problem statement.
