@@ -10,3 +10,7 @@
   1. Missing Values  
   2. Correlation Matrix  
   3. Symptom frequencies ... and more!  
+### Final Accuracy Values of the Algorithms Used:
+a. Random Forest : 97.619%
+b. Multinomial Logistic Regression : 92.8571%
+#### From the above information : Random Forest Algorithm is preferred for the given problem.
