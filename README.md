@@ -2,7 +2,6 @@
 ### Algorithms Used:
 - Random Forest
 - Multinomial Logistic Regression
-<br/>
 ### In the above project, we have done the following:  <br/>  
 - Classified 42 diseases using Random Forest  <br/>  
 - Acquired Feature Importance table and performed Feature Selection by selecting features above 75 percentile importance  <br/>
