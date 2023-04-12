@@ -6,7 +6,7 @@
 - Classified 42 diseases using Random Forest  
 - Acquired Feature Importance table and performed Feature Selection by selecting features above 75 percentile importance  
 - Used "New_Training" and "New_Testing" datasets to perform Multinomial Logistic Regression   
-- EDA using a series of Visualizattions showing :  
+- EDA using a series of Visualizations showing :  
   1. Missing Values  
   2. Correlation Matrix  
   3. Symptom frequencies ... and more!  
